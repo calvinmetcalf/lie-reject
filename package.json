@@ -1,6 +1,6 @@
 {
   "name": "lie-reject",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "reject all the lies",
   "main": "lib/reject.js",
   "scripts": {
@@ -27,6 +27,6 @@
     "istanbul": "~0.1.44"
   },
   "dependencies": {
-    "lie": "~2.0.6"
+    "lie": "~2.3.0"
   }
 }
