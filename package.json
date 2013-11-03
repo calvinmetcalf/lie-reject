@@ -1,6 +1,6 @@
 {
   "name": "lie-reject",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "reject all the lies",
   "main": "lib/reject.js",
   "scripts": {
